@@ -1,0 +1,9 @@
+node_modules/
+dist/
+node-v*-win-x64/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+.wrangler/
